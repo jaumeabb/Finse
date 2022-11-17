@@ -1,0 +1,3 @@
+#Segona prova
+  
+library(assertthat)
